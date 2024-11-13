@@ -1,2 +1,3 @@
 # votegaorg
+This is the README file. VoteGA.org is a non-partisan...
  
