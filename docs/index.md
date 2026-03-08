@@ -1,0 +1,1 @@
+VoteGA is an effort to inform the electorate of the State of Georgia concerning state and federal elections. 
