@@ -1,3 +1,1 @@
-# Votega.org
 Welcome! This website is currently under construction...
- 
